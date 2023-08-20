@@ -6,6 +6,7 @@ public class MyFirstClassAtThiredP {
 	System.out.println("My third project");
 	
 	System.out.println("Hello world");
+	System.out.println("New TaskOneTwo");
 	}
 
 }
